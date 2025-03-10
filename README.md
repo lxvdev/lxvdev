@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my profile!
+
+![](https://komarev.com/ghpvc/?username=lxvdev&style=for-the-badge&abbreviated=true)
